@@ -1,7 +1,7 @@
 # WiebeTech Forensic UltraDockv6 Beginner(s) Guide
 ## Note
 Before making this guide I was under the impression that specific software was required. I was wrong. [FTK Imager](https://www.exterro.com/ftk-product-downloads/) works.
-
+---
 The purpose of this guide is two-fold:
 	- I recently recieved this device at B-Sides Bristol, as of writing, and cannot find a good resource for non-industry users of this device to help them get started with using it, so I am making one.
 	- I would not like to have to remember this information for next time I need to set it up.
